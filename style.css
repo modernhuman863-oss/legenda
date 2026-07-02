@@ -1,0 +1,23 @@
+h1 {
+  text-align: center;
+}
+.marker{
+ background-color: red;
+ height: 40px;
+ width: 2000px;
+}
+.flag{
+width: 100px;
+height: auto;
+}
+img{
+display: block;
+margin: 0 auto;
+}
+P{
+font-size: 30px;
+}
+.container{
+display:flex;
+justify-content: center;
+}
